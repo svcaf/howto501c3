@@ -269,7 +269,7 @@ Charter school不需要这一步
 主要有
 
 *   IRS tax forms: Form 990  每年五月15日左右 deadline
-*   CA tax forms: Form 119 五月15日左右 deadline
+*   CA tax forms: Form 199 五月15日左右 deadline
 *   Attorney General Charity register ： 每年注册一次 deadline April 15th
 
 [http://oag.ca.gov/sites/all/files/agweb/pdfs/charities/charitable/rrf1_form.pdf](http://oag.ca.gov/sites/all/files/agweb/pdfs/charities/charitable/rrf1_form.pdf) 
