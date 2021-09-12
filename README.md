@@ -162,7 +162,7 @@ Identify a responsible person
   <tr>
    <td>Register with Registry of Charitable Trusts
    </td>
-   <td><a href="http://ag.ca.gov/charities/forms.php">Attorney General</a>
+   <td><a href="https://oag.ca.gov/charities/forms#trusts">Attorney General</a>
    </td>
    <td>$25
 <p>
